@@ -1,0 +1,1742 @@
+[
+  {
+    "name": "Ale",
+    "total": 32.8,
+    "municipal": 21.32,
+    "regional": 11.48
+  },
+  {
+    "name": "Alingsås",
+    "total": 32.84,
+    "municipal": 21.36,
+    "regional": 11.48
+  },
+  {
+    "name": "Alvesta",
+    "total": 33.42,
+    "municipal": 21.42,
+    "regional": 12.0
+  },
+  {
+    "name": "Aneby",
+    "total": 33.85,
+    "municipal": 22.09,
+    "regional": 11.76
+  },
+  {
+    "name": "Arboga",
+    "total": 33.29,
+    "municipal": 22.41,
+    "regional": 10.88
+  },
+  {
+    "name": "Arjeplog",
+    "total": 34.84,
+    "municipal": 23.5,
+    "regional": 11.34
+  },
+  {
+    "name": "Arvidsjaur",
+    "total": 34.14,
+    "municipal": 22.8,
+    "regional": 11.34
+  },
+  {
+    "name": "Arvika",
+    "total": 34.03,
+    "municipal": 21.75,
+    "regional": 12.28
+  },
+  {
+    "name": "Askersund",
+    "total": 34.15,
+    "municipal": 21.85,
+    "regional": 12.3
+  },
+  {
+    "name": "Avesta",
+    "total": 33.95,
+    "municipal": 21.96,
+    "regional": 11.99
+  },
+  {
+    "name": "Bengtsfors",
+    "total": 34.4,
+    "municipal": 22.92,
+    "regional": 11.48
+  },
+  {
+    "name": "Berg",
+    "total": 34.22,
+    "municipal": 22.52,
+    "regional": 11.7
+  },
+  {
+    "name": "Bjurholm",
+    "total": 35.0,
+    "municipal": 23.15,
+    "regional": 11.85
+  },
+  {
+    "name": "Bjuv",
+    "total": 32.17,
+    "municipal": 20.99,
+    "regional": 11.18
+  },
+  {
+    "name": "Boden",
+    "total": 33.94,
+    "municipal": 22.6,
+    "regional": 11.34
+  },
+  {
+    "name": "Bollebygd",
+    "total": 33.07,
+    "municipal": 21.59,
+    "regional": 11.48
+  },
+  {
+    "name": "Bollnäs",
+    "total": 33.37,
+    "municipal": 21.86,
+    "regional": 11.51
+  },
+  {
+    "name": "Borgholm",
+    "total": 33.44,
+    "municipal": 21.58,
+    "regional": 11.86
+  },
+  {
+    "name": "Borlänge",
+    "total": 34.4,
+    "municipal": 22.41,
+    "regional": 11.99
+  },
+  {
+    "name": "Borås",
+    "total": 32.79,
+    "municipal": 21.31,
+    "regional": 11.48
+  },
+  {
+    "name": "Botkyrka",
+    "total": 32.23,
+    "municipal": 19.9,
+    "regional": 12.33
+  },
+  {
+    "name": "Boxholm",
+    "total": 33.37,
+    "municipal": 21.82,
+    "regional": 11.55
+  },
+  {
+    "name": "Bromölla",
+    "total": 33.74,
+    "municipal": 22.56,
+    "regional": 11.18
+  },
+  {
+    "name": "Bräcke",
+    "total": 35.09,
+    "municipal": 23.39,
+    "regional": 11.7
+  },
+  {
+    "name": "Burlöv",
+    "total": 31.27,
+    "municipal": 20.09,
+    "regional": 11.18
+  },
+  {
+    "name": "Båstad",
+    "total": 31.41,
+    "municipal": 20.23,
+    "regional": 11.18
+  },
+  {
+    "name": "Dals-Ed",
+    "total": 34.69,
+    "municipal": 23.21,
+    "regional": 11.48
+  },
+  {
+    "name": "Danderyd",
+    "total": 30.58,
+    "municipal": 18.25,
+    "regional": 12.33
+  },
+  {
+    "name": "Degerfors",
+    "total": 35.3,
+    "municipal": 23.0,
+    "regional": 12.3
+  },
+  {
+    "name": "Dorotea",
+    "total": 35.65,
+    "municipal": 23.8,
+    "regional": 11.85
+  },
+  {
+    "name": "Eda",
+    "total": 34.55,
+    "municipal": 22.27,
+    "regional": 12.28
+  },
+  {
+    "name": "Ekerö",
+    "total": 31.45,
+    "municipal": 19.12,
+    "regional": 12.33
+  },
+  {
+    "name": "Eksjö",
+    "total": 34.02,
+    "municipal": 22.26,
+    "regional": 11.76
+  },
+  {
+    "name": "Emmaboda",
+    "total": 33.82,
+    "municipal": 21.96,
+    "regional": 11.86
+  },
+  {
+    "name": "Enköping",
+    "total": 33.05,
+    "municipal": 21.34,
+    "regional": 11.71
+  },
+  {
+    "name": "Eskilstuna",
+    "total": 32.85,
+    "municipal": 22.02,
+    "regional": 10.83
+  },
+  {
+    "name": "Eslöv",
+    "total": 31.72,
+    "municipal": 20.54,
+    "regional": 11.18
+  },
+  {
+    "name": "Essunga",
+    "total": 33.05,
+    "municipal": 21.57,
+    "regional": 11.48
+  },
+  {
+    "name": "Fagersta",
+    "total": 32.99,
+    "municipal": 22.11,
+    "regional": 10.88
+  },
+  {
+    "name": "Falkenberg",
+    "total": 32.5,
+    "municipal": 21.1,
+    "regional": 11.4
+  },
+  {
+    "name": "Falköping",
+    "total": 33.43,
+    "municipal": 21.95,
+    "regional": 11.48
+  },
+  {
+    "name": "Falun",
+    "total": 34.05,
+    "municipal": 22.06,
+    "regional": 11.99
+  },
+  {
+    "name": "Filipstad",
+    "total": 34.55,
+    "municipal": 22.27,
+    "regional": 12.28
+  },
+  {
+    "name": "Finspång",
+    "total": 33.7,
+    "municipal": 22.15,
+    "regional": 11.55
+  },
+  {
+    "name": "Flen",
+    "total": 33.1,
+    "municipal": 22.27,
+    "regional": 10.83
+  },
+  {
+    "name": "Forshaga",
+    "total": 34.63,
+    "municipal": 22.35,
+    "regional": 12.28
+  },
+  {
+    "name": "Färgelanda",
+    "total": 34.39,
+    "municipal": 22.91,
+    "regional": 11.48
+  },
+  {
+    "name": "Gagnef",
+    "total": 34.27,
+    "municipal": 22.28,
+    "regional": 11.99
+  },
+  {
+    "name": "Gislaved",
+    "total": 33.75,
+    "municipal": 21.99,
+    "regional": 11.76
+  },
+  {
+    "name": "Gnesta",
+    "total": 32.95,
+    "municipal": 22.12,
+    "regional": 10.83
+  },
+  {
+    "name": "Gnosjö",
+    "total": 34.0,
+    "municipal": 22.24,
+    "regional": 11.76
+  },
+  {
+    "name": "Gotland",
+    "total": 33.6,
+    "municipal": 33.6,
+    "regional": 0.0
+  },
+  {
+    "name": "Grums",
+    "total": 34.78,
+    "municipal": 22.5,
+    "regional": 12.28
+  },
+  {
+    "name": "Grästorp",
+    "total": 33.47,
+    "municipal": 21.99,
+    "regional": 11.48
+  },
+  {
+    "name": "Gullspång",
+    "total": 33.97,
+    "municipal": 22.49,
+    "regional": 11.48
+  },
+  {
+    "name": "Gällivare",
+    "total": 33.89,
+    "municipal": 22.55,
+    "regional": 11.34
+  },
+  {
+    "name": "Gävle",
+    "total": 33.77,
+    "municipal": 22.26,
+    "regional": 11.51
+  },
+  {
+    "name": "Göteborg",
+    "total": 32.6,
+    "municipal": 21.12,
+    "regional": 11.48
+  },
+  {
+    "name": "Götene",
+    "total": 33.6,
+    "municipal": 22.12,
+    "regional": 11.48
+  },
+  {
+    "name": "Habo",
+    "total": 33.93,
+    "municipal": 22.17,
+    "regional": 11.76
+  },
+  {
+    "name": "Hagfors",
+    "total": 34.3,
+    "municipal": 22.02,
+    "regional": 12.28
+  },
+  {
+    "name": "Hallsberg",
+    "total": 33.85,
+    "municipal": 21.55,
+    "regional": 12.3
+  },
+  {
+    "name": "Hallstahammar",
+    "total": 32.69,
+    "municipal": 21.81,
+    "regional": 10.88
+  },
+  {
+    "name": "Halmstad",
+    "total": 32.38,
+    "municipal": 20.98,
+    "regional": 11.4
+  },
+  {
+    "name": "Hammarö",
+    "total": 35.05,
+    "municipal": 22.77,
+    "regional": 12.28
+  },
+  {
+    "name": "Haninge",
+    "total": 31.28,
+    "municipal": 18.95,
+    "regional": 12.33
+  },
+  {
+    "name": "Haparanda",
+    "total": 33.84,
+    "municipal": 22.5,
+    "regional": 11.34
+  },
+  {
+    "name": "Heby",
+    "total": 34.21,
+    "municipal": 22.5,
+    "regional": 11.71
+  },
+  {
+    "name": "Hedemora",
+    "total": 34.15,
+    "municipal": 22.16,
+    "regional": 11.99
+  },
+  {
+    "name": "Helsingborg",
+    "total": 31.39,
+    "municipal": 20.21,
+    "regional": 11.18
+  },
+  {
+    "name": "Herrljunga",
+    "total": 33.62,
+    "municipal": 22.14,
+    "regional": 11.48
+  },
+  {
+    "name": "Hjo",
+    "total": 33.48,
+    "municipal": 22.0,
+    "regional": 11.48
+  },
+  {
+    "name": "Hofors",
+    "total": 34.37,
+    "municipal": 22.86,
+    "regional": 11.51
+  },
+  {
+    "name": "Huddinge",
+    "total": 31.71,
+    "municipal": 19.38,
+    "regional": 12.33
+  },
+  {
+    "name": "Hudiksvall",
+    "total": 33.12,
+    "municipal": 21.61,
+    "regional": 11.51
+  },
+  {
+    "name": "Hultsfred",
+    "total": 33.77,
+    "municipal": 21.91,
+    "regional": 11.86
+  },
+  {
+    "name": "Hylte",
+    "total": 33.85,
+    "municipal": 22.45,
+    "regional": 11.4
+  },
+  {
+    "name": "Håbo",
+    "total": 33.3,
+    "municipal": 21.59,
+    "regional": 11.71
+  },
+  {
+    "name": "Hällefors",
+    "total": 34.35,
+    "municipal": 22.05,
+    "regional": 12.3
+  },
+  {
+    "name": "Härjedalen",
+    "total": 34.17,
+    "municipal": 22.47,
+    "regional": 11.7
+  },
+  {
+    "name": "Härnösand",
+    "total": 34.63,
+    "municipal": 23.34,
+    "regional": 11.29
+  },
+  {
+    "name": "Härryda",
+    "total": 31.98,
+    "municipal": 20.5,
+    "regional": 11.48
+  },
+  {
+    "name": "Hässleholm",
+    "total": 32.38,
+    "municipal": 21.2,
+    "regional": 11.18
+  },
+  {
+    "name": "Höganäs",
+    "total": 30.91,
+    "municipal": 19.73,
+    "regional": 11.18
+  },
+  {
+    "name": "Högsby",
+    "total": 34.07,
+    "municipal": 22.21,
+    "regional": 11.86
+  },
+  {
+    "name": "Hörby",
+    "total": 32.26,
+    "municipal": 21.08,
+    "regional": 11.18
+  },
+  {
+    "name": "Höör",
+    "total": 32.63,
+    "municipal": 21.45,
+    "regional": 11.18
+  },
+  {
+    "name": "Jokkmokk",
+    "total": 34.29,
+    "municipal": 22.95,
+    "regional": 11.34
+  },
+  {
+    "name": "Järfälla",
+    "total": 31.52,
+    "municipal": 19.19,
+    "regional": 12.33
+  },
+  {
+    "name": "Jönköping",
+    "total": 33.4,
+    "municipal": 21.64,
+    "regional": 11.76
+  },
+  {
+    "name": "Kalix",
+    "total": 33.89,
+    "municipal": 22.55,
+    "regional": 11.34
+  },
+  {
+    "name": "Kalmar",
+    "total": 33.67,
+    "municipal": 21.81,
+    "regional": 11.86
+  },
+  {
+    "name": "Karlsborg",
+    "total": 32.8,
+    "municipal": 21.32,
+    "regional": 11.48
+  },
+  {
+    "name": "Karlshamn",
+    "total": 33.8,
+    "municipal": 21.76,
+    "regional": 12.04
+  },
+  {
+    "name": "Karlskoga",
+    "total": 34.3,
+    "municipal": 22.0,
+    "regional": 12.3
+  },
+  {
+    "name": "Karlskrona",
+    "total": 33.69,
+    "municipal": 21.65,
+    "regional": 12.04
+  },
+  {
+    "name": "Karlstad",
+    "total": 33.55,
+    "municipal": 21.27,
+    "regional": 12.28
+  },
+  {
+    "name": "Katrineholm",
+    "total": 32.95,
+    "municipal": 22.12,
+    "regional": 10.83
+  },
+  {
+    "name": "Kil",
+    "total": 34.63,
+    "municipal": 22.35,
+    "regional": 12.28
+  },
+  {
+    "name": "Kinda",
+    "total": 33.0,
+    "municipal": 21.45,
+    "regional": 11.55
+  },
+  {
+    "name": "Kiruna",
+    "total": 34.39,
+    "municipal": 23.05,
+    "regional": 11.34
+  },
+  {
+    "name": "Klippan",
+    "total": 31.93,
+    "municipal": 20.75,
+    "regional": 11.18
+  },
+  {
+    "name": "Knivsta",
+    "total": 32.62,
+    "municipal": 20.91,
+    "regional": 11.71
+  },
+  {
+    "name": "Kramfors",
+    "total": 34.43,
+    "municipal": 23.14,
+    "regional": 11.29
+  },
+  {
+    "name": "Kristianstad",
+    "total": 32.64,
+    "municipal": 21.46,
+    "regional": 11.18
+  },
+  {
+    "name": "Kristinehamn",
+    "total": 34.25,
+    "municipal": 21.97,
+    "regional": 12.28
+  },
+  {
+    "name": "Krokom",
+    "total": 33.87,
+    "municipal": 22.17,
+    "regional": 11.7
+  },
+  {
+    "name": "Kumla",
+    "total": 33.84,
+    "municipal": 21.54,
+    "regional": 12.3
+  },
+  {
+    "name": "Kungsbacka",
+    "total": 32.58,
+    "municipal": 21.18,
+    "regional": 11.4
+  },
+  {
+    "name": "Kungsör",
+    "total": 32.91,
+    "municipal": 22.03,
+    "regional": 10.88
+  },
+  {
+    "name": "Kungälv",
+    "total": 32.92,
+    "municipal": 21.44,
+    "regional": 11.48
+  },
+  {
+    "name": "Kävlinge",
+    "total": 29.59,
+    "municipal": 18.41,
+    "regional": 11.18
+  },
+  {
+    "name": "Köping",
+    "total": 33.04,
+    "municipal": 22.16,
+    "regional": 10.88
+  },
+  {
+    "name": "Laholm",
+    "total": 32.8,
+    "municipal": 21.4,
+    "regional": 11.4
+  },
+  {
+    "name": "Landskrona",
+    "total": 31.42,
+    "municipal": 20.24,
+    "regional": 11.18
+  },
+  {
+    "name": "Laxå",
+    "total": 35.0,
+    "municipal": 22.7,
+    "regional": 12.3
+  },
+  {
+    "name": "Lekeberg",
+    "total": 33.73,
+    "municipal": 21.43,
+    "regional": 12.3
+  },
+  {
+    "name": "Leksand",
+    "total": 33.8,
+    "municipal": 21.81,
+    "regional": 11.99
+  },
+  {
+    "name": "Lerum",
+    "total": 32.03,
+    "municipal": 20.55,
+    "regional": 11.48
+  },
+  {
+    "name": "Lessebo",
+    "total": 33.81,
+    "municipal": 21.81,
+    "regional": 12.0
+  },
+  {
+    "name": "Lidingö",
+    "total": 29.67,
+    "municipal": 17.34,
+    "regional": 12.33
+  },
+  {
+    "name": "Lidköping",
+    "total": 32.74,
+    "municipal": 21.26,
+    "regional": 11.48
+  },
+  {
+    "name": "Lilla Edet",
+    "total": 33.85,
+    "municipal": 22.37,
+    "regional": 11.48
+  },
+  {
+    "name": "Lindesberg",
+    "total": 34.6,
+    "municipal": 22.3,
+    "regional": 12.3
+  },
+  {
+    "name": "Linköping",
+    "total": 31.75,
+    "municipal": 20.2,
+    "regional": 11.55
+  },
+  {
+    "name": "Ljungby",
+    "total": 33.07,
+    "municipal": 21.07,
+    "regional": 12.0
+  },
+  {
+    "name": "Ljusdal",
+    "total": 33.87,
+    "municipal": 22.36,
+    "regional": 11.51
+  },
+  {
+    "name": "Ljusnarsberg",
+    "total": 33.8,
+    "municipal": 21.5,
+    "regional": 12.3
+  },
+  {
+    "name": "Lomma",
+    "total": 30.72,
+    "municipal": 19.54,
+    "regional": 11.18
+  },
+  {
+    "name": "Ludvika",
+    "total": 34.05,
+    "municipal": 22.06,
+    "regional": 11.99
+  },
+  {
+    "name": "Luleå",
+    "total": 33.84,
+    "municipal": 22.5,
+    "regional": 11.34
+  },
+  {
+    "name": "Lund",
+    "total": 32.42,
+    "municipal": 21.24,
+    "regional": 11.18
+  },
+  {
+    "name": "Lycksele",
+    "total": 34.9,
+    "municipal": 23.05,
+    "regional": 11.85
+  },
+  {
+    "name": "Lysekil",
+    "total": 33.94,
+    "municipal": 22.46,
+    "regional": 11.48
+  },
+  {
+    "name": "Malmö",
+    "total": 32.42,
+    "municipal": 21.24,
+    "regional": 11.18
+  },
+  {
+    "name": "Malung-Sälen",
+    "total": 34.45,
+    "municipal": 22.46,
+    "regional": 11.99
+  },
+  {
+    "name": "Malå",
+    "total": 35.2,
+    "municipal": 23.35,
+    "regional": 11.85
+  },
+  {
+    "name": "Mariestad",
+    "total": 32.74,
+    "municipal": 21.26,
+    "regional": 11.48
+  },
+  {
+    "name": "Mark",
+    "total": 32.99,
+    "municipal": 21.51,
+    "regional": 11.48
+  },
+  {
+    "name": "Markaryd",
+    "total": 33.31,
+    "municipal": 21.31,
+    "regional": 12.0
+  },
+  {
+    "name": "Mellerud",
+    "total": 34.08,
+    "municipal": 22.6,
+    "regional": 11.48
+  },
+  {
+    "name": "Mjölby",
+    "total": 33.45,
+    "municipal": 21.9,
+    "regional": 11.55
+  },
+  {
+    "name": "Mora",
+    "total": 34.32,
+    "municipal": 22.33,
+    "regional": 11.99
+  },
+  {
+    "name": "Motala",
+    "total": 33.25,
+    "municipal": 21.7,
+    "regional": 11.55
+  },
+  {
+    "name": "Mullsjö",
+    "total": 34.1,
+    "municipal": 22.34,
+    "regional": 11.76
+  },
+  {
+    "name": "Munkedal",
+    "total": 34.86,
+    "municipal": 23.38,
+    "regional": 11.48
+  },
+  {
+    "name": "Munkfors",
+    "total": 34.3,
+    "municipal": 22.02,
+    "regional": 12.28
+  },
+  {
+    "name": "Mölndal",
+    "total": 31.99,
+    "municipal": 20.51,
+    "regional": 11.48
+  },
+  {
+    "name": "Mönsterås",
+    "total": 34.07,
+    "municipal": 22.21,
+    "regional": 11.86
+  },
+  {
+    "name": "Mörbylånga",
+    "total": 34.07,
+    "municipal": 22.21,
+    "regional": 11.86
+  },
+  {
+    "name": "Nacka",
+    "total": 30.11,
+    "municipal": 17.78,
+    "regional": 12.33
+  },
+  {
+    "name": "Nora",
+    "total": 34.55,
+    "municipal": 22.25,
+    "regional": 12.3
+  },
+  {
+    "name": "Norberg",
+    "total": 33.54,
+    "municipal": 22.66,
+    "regional": 10.88
+  },
+  {
+    "name": "Nordanstig",
+    "total": 34.02,
+    "municipal": 22.51,
+    "regional": 11.51
+  },
+  {
+    "name": "Nordmaling",
+    "total": 35.1,
+    "municipal": 23.25,
+    "regional": 11.85
+  },
+  {
+    "name": "Norrköping",
+    "total": 33.3,
+    "municipal": 21.75,
+    "regional": 11.55
+  },
+  {
+    "name": "Norrtälje",
+    "total": 32.05,
+    "municipal": 19.72,
+    "regional": 12.33
+  },
+  {
+    "name": "Norsjö",
+    "total": 35.2,
+    "municipal": 23.35,
+    "regional": 11.85
+  },
+  {
+    "name": "Nybro",
+    "total": 34.19,
+    "municipal": 22.33,
+    "regional": 11.86
+  },
+  {
+    "name": "Nykvarn",
+    "total": 32.3,
+    "municipal": 19.97,
+    "regional": 12.33
+  },
+  {
+    "name": "Nyköping",
+    "total": 32.25,
+    "municipal": 21.42,
+    "regional": 10.83
+  },
+  {
+    "name": "Nynäshamn",
+    "total": 32.18,
+    "municipal": 19.85,
+    "regional": 12.33
+  },
+  {
+    "name": "Nässjö",
+    "total": 34.3,
+    "municipal": 22.54,
+    "regional": 11.76
+  },
+  {
+    "name": "Ockelbo",
+    "total": 34.27,
+    "municipal": 22.76,
+    "regional": 11.51
+  },
+  {
+    "name": "Olofström",
+    "total": 33.75,
+    "municipal": 21.71,
+    "regional": 12.04
+  },
+  {
+    "name": "Orsa",
+    "total": 34.3,
+    "municipal": 22.31,
+    "regional": 11.99
+  },
+  {
+    "name": "Orust",
+    "total": 33.69,
+    "municipal": 22.21,
+    "regional": 11.48
+  },
+  {
+    "name": "Osby",
+    "total": 33.99,
+    "municipal": 22.81,
+    "regional": 11.18
+  },
+  {
+    "name": "Oskarshamn",
+    "total": 34.21,
+    "municipal": 22.35,
+    "regional": 11.86
+  },
+  {
+    "name": "Ovanåker",
+    "total": 33.37,
+    "municipal": 21.86,
+    "regional": 11.51
+  },
+  {
+    "name": "Oxelösund",
+    "total": 33.05,
+    "municipal": 22.22,
+    "regional": 10.83
+  },
+  {
+    "name": "Pajala",
+    "total": 34.74,
+    "municipal": 23.4,
+    "regional": 11.34
+  },
+  {
+    "name": "Partille",
+    "total": 31.36,
+    "municipal": 19.88,
+    "regional": 11.48
+  },
+  {
+    "name": "Perstorp",
+    "total": 31.99,
+    "municipal": 20.81,
+    "regional": 11.18
+  },
+  {
+    "name": "Piteå",
+    "total": 33.59,
+    "municipal": 22.25,
+    "regional": 11.34
+  },
+  {
+    "name": "Ragunda",
+    "total": 34.92,
+    "municipal": 23.22,
+    "regional": 11.7
+  },
+  {
+    "name": "Robertsfors",
+    "total": 35.0,
+    "municipal": 23.15,
+    "regional": 11.85
+  },
+  {
+    "name": "Ronneby",
+    "total": 33.68,
+    "municipal": 21.64,
+    "regional": 12.04
+  },
+  {
+    "name": "Rättvik",
+    "total": 33.8,
+    "municipal": 21.81,
+    "regional": 11.99
+  },
+  {
+    "name": "Sala",
+    "total": 33.19,
+    "municipal": 22.31,
+    "regional": 10.88
+  },
+  {
+    "name": "Salem",
+    "total": 32.0,
+    "municipal": 19.67,
+    "regional": 12.33
+  },
+  {
+    "name": "Sandviken",
+    "total": 33.12,
+    "municipal": 21.61,
+    "regional": 11.51
+  },
+  {
+    "name": "Sigtuna",
+    "total": 31.83,
+    "municipal": 19.5,
+    "regional": 12.33
+  },
+  {
+    "name": "Simrishamn",
+    "total": 31.69,
+    "municipal": 20.51,
+    "regional": 11.18
+  },
+  {
+    "name": "Sjöbo",
+    "total": 32.1,
+    "municipal": 20.92,
+    "regional": 11.18
+  },
+  {
+    "name": "Skara",
+    "total": 33.38,
+    "municipal": 21.9,
+    "regional": 11.48
+  },
+  {
+    "name": "Skellefteå",
+    "total": 34.45,
+    "municipal": 22.6,
+    "regional": 11.85
+  },
+  {
+    "name": "Skinnskatteberg",
+    "total": 33.34,
+    "municipal": 22.46,
+    "regional": 10.88
+  },
+  {
+    "name": "Skurup",
+    "total": 31.6,
+    "municipal": 20.42,
+    "regional": 11.18
+  },
+  {
+    "name": "Skövde",
+    "total": 33.09,
+    "municipal": 21.61,
+    "regional": 11.48
+  },
+  {
+    "name": "Smedjebacken",
+    "total": 34.44,
+    "municipal": 22.45,
+    "regional": 11.99
+  },
+  {
+    "name": "Sollefteå",
+    "total": 34.68,
+    "municipal": 23.39,
+    "regional": 11.29
+  },
+  {
+    "name": "Sollentuna",
+    "total": 30.45,
+    "municipal": 18.12,
+    "regional": 12.33
+  },
+  {
+    "name": "Solna",
+    "total": 29.7,
+    "municipal": 17.37,
+    "regional": 12.33
+  },
+  {
+    "name": "Sorsele",
+    "total": 35.45,
+    "municipal": 23.6,
+    "regional": 11.85
+  },
+  {
+    "name": "Sotenäs",
+    "total": 33.47,
+    "municipal": 21.99,
+    "regional": 11.48
+  },
+  {
+    "name": "Staffanstorp",
+    "total": 30.12,
+    "municipal": 18.94,
+    "regional": 11.18
+  },
+  {
+    "name": "Stenungsund",
+    "total": 33.12,
+    "municipal": 21.64,
+    "regional": 11.48
+  },
+  {
+    "name": "Stockholm",
+    "total": 30.55,
+    "municipal": 18.22,
+    "regional": 12.33
+  },
+  {
+    "name": "Storfors",
+    "total": 34.98,
+    "municipal": 22.7,
+    "regional": 12.28
+  },
+  {
+    "name": "Storuman",
+    "total": 34.95,
+    "municipal": 23.1,
+    "regional": 11.85
+  },
+  {
+    "name": "Strängnäs",
+    "total": 32.5,
+    "municipal": 21.67,
+    "regional": 10.83
+  },
+  {
+    "name": "Strömstad",
+    "total": 33.39,
+    "municipal": 21.91,
+    "regional": 11.48
+  },
+  {
+    "name": "Strömsund",
+    "total": 34.92,
+    "municipal": 23.22,
+    "regional": 11.7
+  },
+  {
+    "name": "Sundbyberg",
+    "total": 31.58,
+    "municipal": 19.25,
+    "regional": 12.33
+  },
+  {
+    "name": "Sundsvall",
+    "total": 33.88,
+    "municipal": 22.59,
+    "regional": 11.29
+  },
+  {
+    "name": "Sunne",
+    "total": 33.75,
+    "municipal": 21.47,
+    "regional": 12.28
+  },
+  {
+    "name": "Surahammar",
+    "total": 33.19,
+    "municipal": 22.31,
+    "regional": 10.88
+  },
+  {
+    "name": "Svalöv",
+    "total": 31.92,
+    "municipal": 20.74,
+    "regional": 11.18
+  },
+  {
+    "name": "Svedala",
+    "total": 31.42,
+    "municipal": 20.24,
+    "regional": 11.18
+  },
+  {
+    "name": "Svenljunga",
+    "total": 33.53,
+    "municipal": 22.05,
+    "regional": 11.48
+  },
+  {
+    "name": "Säffle",
+    "total": 33.8,
+    "municipal": 21.52,
+    "regional": 12.28
+  },
+  {
+    "name": "Säter",
+    "total": 34.3,
+    "municipal": 22.31,
+    "regional": 11.99
+  },
+  {
+    "name": "Sävsjö",
+    "total": 33.68,
+    "municipal": 21.92,
+    "regional": 11.76
+  },
+  {
+    "name": "Söderhamn",
+    "total": 33.17,
+    "municipal": 21.66,
+    "regional": 11.51
+  },
+  {
+    "name": "Söderköping",
+    "total": 33.53,
+    "municipal": 21.98,
+    "regional": 11.55
+  },
+  {
+    "name": "Södertälje",
+    "total": 32.38,
+    "municipal": 20.05,
+    "regional": 12.33
+  },
+  {
+    "name": "Sölvesborg",
+    "total": 33.86,
+    "municipal": 21.82,
+    "regional": 12.04
+  },
+  {
+    "name": "Tanum",
+    "total": 33.04,
+    "municipal": 21.56,
+    "regional": 11.48
+  },
+  {
+    "name": "Tibro",
+    "total": 33.19,
+    "municipal": 21.71,
+    "regional": 11.48
+  },
+  {
+    "name": "Tidaholm",
+    "total": 33.55,
+    "municipal": 22.07,
+    "regional": 11.48
+  },
+  {
+    "name": "Tierp",
+    "total": 33.0,
+    "municipal": 21.29,
+    "regional": 11.71
+  },
+  {
+    "name": "Timrå",
+    "total": 34.38,
+    "municipal": 23.09,
+    "regional": 11.29
+  },
+  {
+    "name": "Tingsryd",
+    "total": 34.0,
+    "municipal": 22.0,
+    "regional": 12.0
+  },
+  {
+    "name": "Tjörn",
+    "total": 33.19,
+    "municipal": 21.71,
+    "regional": 11.48
+  },
+  {
+    "name": "Tomelilla",
+    "total": 31.79,
+    "municipal": 20.61,
+    "regional": 11.18
+  },
+  {
+    "name": "Torsby",
+    "total": 34.3,
+    "municipal": 22.02,
+    "regional": 12.28
+  },
+  {
+    "name": "Torsås",
+    "total": 33.79,
+    "municipal": 21.93,
+    "regional": 11.86
+  },
+  {
+    "name": "Tranemo",
+    "total": 32.98,
+    "municipal": 21.5,
+    "regional": 11.48
+  },
+  {
+    "name": "Tranås",
+    "total": 33.77,
+    "municipal": 22.01,
+    "regional": 11.76
+  },
+  {
+    "name": "Trelleborg",
+    "total": 31.58,
+    "municipal": 20.4,
+    "regional": 11.18
+  },
+  {
+    "name": "Trollhättan",
+    "total": 33.84,
+    "municipal": 22.36,
+    "regional": 11.48
+  },
+  {
+    "name": "Trosa",
+    "total": 32.03,
+    "municipal": 21.2,
+    "regional": 10.83
+  },
+  {
+    "name": "Tyresö",
+    "total": 31.83,
+    "municipal": 19.5,
+    "regional": 12.33
+  },
+  {
+    "name": "Täby",
+    "total": 29.88,
+    "municipal": 17.55,
+    "regional": 12.33
+  },
+  {
+    "name": "Töreboda",
+    "total": 33.2,
+    "municipal": 21.72,
+    "regional": 11.48
+  },
+  {
+    "name": "Uddevalla",
+    "total": 33.64,
+    "municipal": 22.16,
+    "regional": 11.48
+  },
+  {
+    "name": "Ulricehamn",
+    "total": 32.53,
+    "municipal": 21.05,
+    "regional": 11.48
+  },
+  {
+    "name": "Umeå",
+    "total": 34.65,
+    "municipal": 22.8,
+    "regional": 11.85
+  },
+  {
+    "name": "Upplands Väsby",
+    "total": 31.75,
+    "municipal": 19.42,
+    "regional": 12.33
+  },
+  {
+    "name": "Upplands-Bro",
+    "total": 31.73,
+    "municipal": 19.4,
+    "regional": 12.33
+  },
+  {
+    "name": "Uppsala",
+    "total": 32.85,
+    "municipal": 21.14,
+    "regional": 11.71
+  },
+  {
+    "name": "Uppvidinge",
+    "total": 33.8,
+    "municipal": 21.8,
+    "regional": 12.0
+  },
+  {
+    "name": "Vadstena",
+    "total": 34.35,
+    "municipal": 22.8,
+    "regional": 11.55
+  },
+  {
+    "name": "Vaggeryd",
+    "total": 33.25,
+    "municipal": 21.49,
+    "regional": 11.76
+  },
+  {
+    "name": "Valdemarsvik",
+    "total": 34.03,
+    "municipal": 22.48,
+    "regional": 11.55
+  },
+  {
+    "name": "Vallentuna",
+    "total": 31.23,
+    "municipal": 18.9,
+    "regional": 12.33
+  },
+  {
+    "name": "Vansbro",
+    "total": 34.28,
+    "municipal": 22.29,
+    "regional": 11.99
+  },
+  {
+    "name": "Vara",
+    "total": 33.25,
+    "municipal": 21.77,
+    "regional": 11.48
+  },
+  {
+    "name": "Varberg",
+    "total": 31.73,
+    "municipal": 20.33,
+    "regional": 11.4
+  },
+  {
+    "name": "Vaxholm",
+    "total": 31.63,
+    "municipal": 19.3,
+    "regional": 12.33
+  },
+  {
+    "name": "Vellinge",
+    "total": 29.68,
+    "municipal": 18.5,
+    "regional": 11.18
+  },
+  {
+    "name": "Vetlanda",
+    "total": 33.77,
+    "municipal": 22.01,
+    "regional": 11.76
+  },
+  {
+    "name": "Vilhelmina",
+    "total": 35.5,
+    "municipal": 23.65,
+    "regional": 11.85
+  },
+  {
+    "name": "Vimmerby",
+    "total": 34.22,
+    "municipal": 22.36,
+    "regional": 11.86
+  },
+  {
+    "name": "Vindeln",
+    "total": 35.2,
+    "municipal": 23.35,
+    "regional": 11.85
+  },
+  {
+    "name": "Vingåker",
+    "total": 33.5,
+    "municipal": 22.67,
+    "regional": 10.83
+  },
+  {
+    "name": "Vårgårda",
+    "total": 33.09,
+    "municipal": 21.61,
+    "regional": 11.48
+  },
+  {
+    "name": "Vänersborg",
+    "total": 33.69,
+    "municipal": 22.21,
+    "regional": 11.48
+  },
+  {
+    "name": "Vännäs",
+    "total": 35.2,
+    "municipal": 23.35,
+    "regional": 11.85
+  },
+  {
+    "name": "Värmdö",
+    "total": 31.31,
+    "municipal": 18.98,
+    "regional": 12.33
+  },
+  {
+    "name": "Värnamo",
+    "total": 33.28,
+    "municipal": 21.52,
+    "regional": 11.76
+  },
+  {
+    "name": "Västervik",
+    "total": 33.02,
+    "municipal": 21.16,
+    "regional": 11.86
+  },
+  {
+    "name": "Västerås",
+    "total": 31.24,
+    "municipal": 20.36,
+    "regional": 10.88
+  },
+  {
+    "name": "Växjö",
+    "total": 32.19,
+    "municipal": 20.19,
+    "regional": 12.0
+  },
+  {
+    "name": "Ydre",
+    "total": 34.1,
+    "municipal": 22.55,
+    "regional": 11.55
+  },
+  {
+    "name": "Ystad",
+    "total": 31.29,
+    "municipal": 20.11,
+    "regional": 11.18
+  },
+  {
+    "name": "Åmål",
+    "total": 33.94,
+    "municipal": 22.46,
+    "regional": 11.48
+  },
+  {
+    "name": "Ånge",
+    "total": 34.62,
+    "municipal": 23.33,
+    "regional": 11.29
+  },
+  {
+    "name": "Åre",
+    "total": 33.92,
+    "municipal": 22.22,
+    "regional": 11.7
+  },
+  {
+    "name": "Årjäng",
+    "total": 34.25,
+    "municipal": 21.97,
+    "regional": 12.28
+  },
+  {
+    "name": "Åsele",
+    "total": 35.45,
+    "municipal": 23.6,
+    "regional": 11.85
+  },
+  {
+    "name": "Åstorp",
+    "total": 31.47,
+    "municipal": 20.29,
+    "regional": 11.18
+  },
+  {
+    "name": "Åtvidaberg",
+    "total": 33.94,
+    "municipal": 22.39,
+    "regional": 11.55
+  },
+  {
+    "name": "Älmhult",
+    "total": 33.86,
+    "municipal": 21.86,
+    "regional": 12.0
+  },
+  {
+    "name": "Älvdalen",
+    "total": 34.77,
+    "municipal": 22.78,
+    "regional": 11.99
+  },
+  {
+    "name": "Älvkarleby",
+    "total": 34.4,
+    "municipal": 22.69,
+    "regional": 11.71
+  },
+  {
+    "name": "Älvsbyn",
+    "total": 33.79,
+    "municipal": 22.45,
+    "regional": 11.34
+  },
+  {
+    "name": "Ängelholm",
+    "total": 31.35,
+    "municipal": 20.17,
+    "regional": 11.18
+  },
+  {
+    "name": "Öckerö",
+    "total": 33.04,
+    "municipal": 21.56,
+    "regional": 11.48
+  },
+  {
+    "name": "Ödeshög",
+    "total": 33.95,
+    "municipal": 22.4,
+    "regional": 11.55
+  },
+  {
+    "name": "Örebro",
+    "total": 33.65,
+    "municipal": 21.35,
+    "regional": 12.3
+  },
+  {
+    "name": "Örkelljunga",
+    "total": 30.24,
+    "municipal": 19.06,
+    "regional": 11.18
+  },
+  {
+    "name": "Örnsköldsvik",
+    "total": 33.85,
+    "municipal": 22.56,
+    "regional": 11.29
+  },
+  {
+    "name": "Östersund",
+    "total": 33.72,
+    "municipal": 22.02,
+    "regional": 11.7
+  },
+  {
+    "name": "Österåker",
+    "total": 28.93,
+    "municipal": 16.6,
+    "regional": 12.33
+  },
+  {
+    "name": "Östhammar",
+    "total": 33.3,
+    "municipal": 21.59,
+    "regional": 11.71
+  },
+  {
+    "name": "Östra Göinge",
+    "total": 32.17,
+    "municipal": 20.99,
+    "regional": 11.18
+  },
+  {
+    "name": "Överkalix",
+    "total": 34.14,
+    "municipal": 22.8,
+    "regional": 11.34
+  },
+  {
+    "name": "Övertorneå",
+    "total": 33.84,
+    "municipal": 22.5,
+    "regional": 11.34
+  }
+]
