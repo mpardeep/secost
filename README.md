@@ -2,6 +2,8 @@
 
 A sleek, interactive web application for comparing apartment and housing costs across Swedish municipalities. Built with **React**, **Vite**, and **Tailwind CSS**.
 
+**Live Demo:** [https://secost.netlify.app/](https://secost.netlify.app/)
+
 ![SeCost Screenshot](./src/assets/hero.png)
 
 ## Features
